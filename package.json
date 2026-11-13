@@ -1,0 +1,33 @@
+{
+  "name": "dsh-stamping",
+  "version": "0.1.0",
+  "description": "冲压力计算与冲压 DFM：吨位估算、孔径/边距/折弯检查",
+  "type": "module",
+  "main": "lib/index.js",
+  "files": [
+    "lib",
+    "cordis.patch.yml",
+    "README.md"
+  ],
+  "keywords": [
+    "dsh",
+    "dsh-plugin",
+    "stamping",
+    "冲压",
+    "press force",
+    "sheet metal"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moldkey/dsh-stamping.git"
+  },
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    }
+  },
+  "engines": {
+    "dsh": ">=0.2.0-rc.2"
+  }
+}
