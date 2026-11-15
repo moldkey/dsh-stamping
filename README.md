@@ -1,3 +1,4 @@
+[![DSHIO/T 10](https://dshio.org/badge/std.svg)](https://dshio.org/10/) [![deepseekbase](https://deepseekbase.com/badge/dsh-stamping.svg)](https://deepseekbase.com/plugins/dsh-stamping/)
 <p align="center"><strong>dsh-stamping — 冲压力与冲压 DFM</strong></p>
 
 冲裁力/吨位估算，最小孔径与边距/折弯检查。
